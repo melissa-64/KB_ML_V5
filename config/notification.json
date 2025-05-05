@@ -1,3 +1,14 @@
 {
-    "notifications": []
+    "notifications": [
+        {
+            "id": "notif1",
+            "type": "discount",
+            "title": "10% off entire order\ud83c\udf89",
+            "message": "Sign up and get 10% off your first order! Plus, be the first to hear about exclusive offers and updates.",
+            "startDate": "2025-05-05T13:46:32Z",
+            "endDate": "2025-05-05T13:47:32Z",
+            "displayDuration": 5000,
+            "priority": "normal"
+        }
+    ]
 }
