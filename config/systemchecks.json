@@ -2,7 +2,7 @@
     "checks": [
         {
             "key": "VirtualizationEnabled",
-            "expectedValue": false,
+            "expectedValue": true,
             "fixable": false,
             "enabled": false,
             "tutorialLink": "https://whar.gitbook.io/bo6-support-guide/pyros-tools-setup-help/1.-virtualization"
