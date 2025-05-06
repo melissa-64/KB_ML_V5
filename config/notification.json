@@ -63,6 +63,22 @@
                     "url": "https://kbservicescheats.com/"
                 }
             }
+        },
+        {
+            "id": "notif5",
+            "type": "announcement",
+            "title": "\ud83c\udfaf Want to dominate the lobby?",
+            "message": "Grab your cheat now and play like a pro!",
+            "startDate": "2025-05-06T16:06:12Z",
+            "endDate": "2034-12-05T16:06:12Z",
+            "displayDuration": 5000,
+            "priority": "normal",
+            "cta": {
+                "primary": {
+                    "text": "Click Here!",
+                    "url": "https://kbservicescheats.com/"
+                }
+            }
         }
     ]
 }
