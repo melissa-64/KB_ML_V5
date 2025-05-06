@@ -20,7 +20,7 @@
             "overlay": "rgba(0,0,0,0.5)",
             "custom-image": "https://cloud.anewvision.fr/1281779910997835788/KB_Services.png",
             "logoImage": "https://cloud.anewvision.fr/1281779910997835788/LOGO.png",
-            "background-anim": "none"
+            "background-anim": "snow"
         },
         "border": {
             "radius": {
