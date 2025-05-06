@@ -24,7 +24,7 @@
             "key": "MemoryIntegrityDisabled",
             "expectedValue": false,
             "fixable": true,
-            "enabled": false
+            "enabled": true
         },
         {
             "key": "DriverBlocklistDisabled",
