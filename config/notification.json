@@ -2,13 +2,19 @@
     "notifications": [
         {
             "id": "notif1",
-            "type": "discount",
-            "title": "10% off entire order\ud83c\udf89",
-            "message": "Sign up and get 10% off your first order! Plus, be the first to hear about exclusive offers and updates.",
-            "startDate": "2025-05-05T13:46:32Z",
-            "endDate": "2025-05-05T13:47:32Z",
+            "type": "announcement",
+            "title": "Unlock All",
+            "message": "\ud83c\udfa8 Unlock exclusive camos instantly \u2013 Unlock All has got you covered!",
+            "startDate": "2025-05-06T16:00:50Z",
+            "endDate": "2034-12-05T16:00:50Z",
             "displayDuration": 5000,
-            "priority": "normal"
+            "priority": "normal",
+            "cta": {
+                "primary": {
+                    "text": "Click Here!",
+                    "url": "https://kbservicescheats.com/products/bo6-wz-unlock-all"
+                }
+            }
         }
     ]
 }
