@@ -5,7 +5,7 @@
             "expectedValue": false,
             "fixable": false,
             "enabled": true,
-            "tutorialLink": ""
+            "tutorialLink": "https://whar.gitbook.io/bo6-support-guide/pyros-tools-setup-help/1.-virtualization"
         },
         {
             "key": "SecureBootDisabled",
