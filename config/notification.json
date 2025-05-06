@@ -31,6 +31,22 @@
                     "url": "https://kbservicescheats.com/products/bo6-wz-unlock-all"
                 }
             }
+        },
+        {
+            "id": "notif3",
+            "type": "announcement",
+            "title": "\u26a1 Limited-time deal:",
+            "message": "Get the safest and most powerful cheats today!",
+            "startDate": "2025-05-06T16:03:57Z",
+            "endDate": "2034-12-05T16:03:57Z",
+            "displayDuration": 5000,
+            "priority": "normal",
+            "cta": {
+                "primary": {
+                    "text": "Click Here!",
+                    "url": "https://kbservicescheats.com/collections/bo6-wz-products"
+                }
+            }
         }
     ]
 }
