@@ -11,32 +11,32 @@
             "key": "SecureBootDisabled",
             "expectedValue": true,
             "fixable": false,
-            "enabled": false,
+            "enabled": true,
             "tutorialLink": "https://whar.gitbook.io/bo6-support-guide/pyros-tools-setup-help/2.-secure-boot"
         },
         {
             "key": "HyperVDisabled",
             "expectedValue": true,
             "fixable": true,
-            "enabled": false
+            "enabled": true
         },
         {
             "key": "MemoryIntegrityDisabled",
             "expectedValue": true,
             "fixable": true,
-            "enabled": false
+            "enabled": true
         },
         {
             "key": "DriverBlocklistDisabled",
             "expectedValue": true,
             "fixable": true,
-            "enabled": false
+            "enabled": true
         },
         {
             "key": "Windows11_24H2",
             "expectedValue": true,
             "fixable": false,
-            "enabled": false,
+            "enabled": true,
             "tutorialLink": ""
         },
         {
