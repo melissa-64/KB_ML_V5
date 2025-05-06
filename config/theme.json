@@ -4,7 +4,7 @@
             "primary": "#303030",
             "secondary": "#252525",
             "border": "#54c8ff",
-            "divider": "#252525",
+            "divider": "#54c8ff",
             "scrollbar": "#303030"
         },
         "text": {
