@@ -47,6 +47,22 @@
                     "url": "https://kbservicescheats.com/collections/bo6-wz-products"
                 }
             }
+        },
+        {
+            "id": "notif4",
+            "type": "announcement",
+            "title": "Software",
+            "message": "\u2705 All our products are always updated and 100% undetectable!",
+            "startDate": "2025-05-06T16:04:56Z",
+            "endDate": "2034-12-05T16:04:56Z",
+            "displayDuration": 5000,
+            "priority": "normal",
+            "cta": {
+                "primary": {
+                    "text": "Click Here!",
+                    "url": "https://kbservicescheats.com/"
+                }
+            }
         }
     ]
 }
