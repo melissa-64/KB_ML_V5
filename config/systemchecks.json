@@ -12,7 +12,7 @@
             "expectedValue": false,
             "fixable": false,
             "enabled": true,
-            "tutorialLink": ""
+            "tutorialLink": "https://whar.gitbook.io/bo6-support-guide/pyros-tools-setup-help/2.-secure-boot"
         },
         {
             "key": "HyperVDisabled",
