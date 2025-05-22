@@ -35,6 +35,15 @@
             "status": "custom",
             "imageUrl": "https://cloud.anewvision.fr/1281779910997835788/BOX_5.png",
             "productUrl": "https://kbservicescheats.com/products/bo6-wz-unlock-all"
+        },
+        {
+            "id": "BO6 Zenith",
+            "name": "BO6 Zenith",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1281779910997835788/BO6_Zenith.exe",
+            "status": "online",
+            "imageUrl": "https://cloud.anewvision.fr/1281779910997835788/BOX_6.png",
+            "productUrl": "https://kbservicescheats.com/products/bo6-wz-internal"
         }
     ]
 }
