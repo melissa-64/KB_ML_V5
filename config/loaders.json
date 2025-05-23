@@ -19,6 +19,15 @@
             "productUrl": "https://kbservicescheats.com/products/rust-disconnect-external"
         },
         {
+            "id": "Loader",
+            "name": "BO6 External",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1281779910997835788/Loader.exe",
+            "status": "online",
+            "imageUrl": "https://cloud.anewvision.fr/1281779910997835788/BOX_2.png",
+            "productUrl": "https://kbservicescheats.com/products/bo6-wz-external-chair-2-0"
+        },
+        {
             "id": "BO6 Zenith",
             "name": "BO6 Zenith",
             "categoryId": "bo6",
@@ -35,15 +44,6 @@
             "status": "custom",
             "imageUrl": "https://cloud.anewvision.fr/1281779910997835788/BOX_5.png",
             "productUrl": "https://kbservicescheats.com/products/bo6-wz-unlock-all"
-        },
-        {
-            "id": "Loader",
-            "name": "BO6 External",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1281779910997835788/Loader.exe",
-            "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1281779910997835788/BOX_2.png",
-            "productUrl": "https://kbservicescheats.com/products/bo6-wz-external-chair-2-0"
         }
     ]
 }
