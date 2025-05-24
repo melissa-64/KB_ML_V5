@@ -35,6 +35,15 @@
             "status": "online",
             "imageUrl": "https://cloud.anewvision.fr/1281779910997835788/BOX_18.png",
             "productUrl": "https://kbservicescheats.com/products/fortnite-external"
+        },
+        {
+            "id": "Rust Ultimate External",
+            "name": "Rust Ultimate External",
+            "categoryId": "rust",
+            "downloadUrl": "https://cloud.anewvision.fr/1281779910997835788/Rust_Ultimate_External.exe",
+            "status": "online",
+            "imageUrl": "https://cloud.anewvision.fr/1281779910997835788/BOX_17.png",
+            "productUrl": "https://kbservicescheats.com/products/rust-external"
         }
     ]
 }
