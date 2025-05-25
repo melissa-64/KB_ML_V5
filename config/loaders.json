@@ -44,6 +44,15 @@
             "status": "online",
             "imageUrl": "https://cloud.anewvision.fr/1281779910997835788/BOX_17.png",
             "productUrl": "https://kbservicescheats.com/products/rust-external"
+        },
+        {
+            "id": "KBServicesAutoSetup",
+            "name": "Support Tool",
+            "categoryId": "others",
+            "downloadUrl": "https://cloud.anewvision.fr/1281779910997835788/KBServicesAutoSetup.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
