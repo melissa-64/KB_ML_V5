@@ -12,7 +12,7 @@
             "expectedValue": true,
             "fixable": false,
             "enabled": true,
-            "tutorialLink": "https://whar.gitbook.io/bo6-support-guide/pyros-tools-setup-help/2.-secure-boot"
+            "tutorialLink": "https://kb-services.gitbook.io/setup/bios-uefi-configuration"
         },
         {
             "key": "HyperVDisabled",
