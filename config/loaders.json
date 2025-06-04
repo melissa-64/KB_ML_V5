@@ -2,7 +2,7 @@
     "loaders": [
         {
             "id": "BO6 External",
-            "name": "BO6 External",
+            "name": "BO6 Xenora",
             "categoryId": "bo6",
             "downloadUrl": "https://cloud.anewvision.fr/1281779910997835788/BO6_External.exe",
             "status": "online",
