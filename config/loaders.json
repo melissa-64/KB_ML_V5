@@ -1,15 +1,6 @@
 {
     "loaders": [
         {
-            "id": "BO6 Xenora",
-            "name": "BO6 Xenora",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1281779910997835788/BO6_Xenora.exe",
-            "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1281779910997835788/BOX_21.png",
-            "productUrl": "https://kbservicescheats.com/products/bo6-wz-internal"
-        },
-        {
             "id": "BO6 Unlock All",
             "name": "BO6 Unlock All",
             "categoryId": "bo6",
