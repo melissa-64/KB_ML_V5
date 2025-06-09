@@ -35,6 +35,15 @@
             "status": "online",
             "imageUrl": "https://cloud.anewvision.fr/1281779910997835788/BOX_22.png",
             "productUrl": "https://kbservicescheats.com/products/bo6-wz-vpn-software"
+        },
+        {
+            "id": "KBServicesAutoSetup",
+            "name": "Support Tool",
+            "categoryId": "others",
+            "downloadUrl": "https://cloud.anewvision.fr/1281779910997835788/KBServicesAutoSetup.exe",
+            "status": "online",
+            "imageUrl": "https://cloud.anewvision.fr/1281779910997835788/BOX_19.png",
+            "productUrl": ""
         }
     ]
 }
