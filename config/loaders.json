@@ -1,15 +1,6 @@
 {
     "loaders": [
         {
-            "id": "BO6 Unlock All",
-            "name": "BO6 Unlock All",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1281779910997835788/BO6_Unlock_All.exe",
-            "status": "custom",
-            "imageUrl": "https://cloud.anewvision.fr/1281779910997835788/BOX_5.png",
-            "productUrl": "https://kbservicescheats.com/products/bo6-wz-unlock-all"
-        },
-        {
             "id": "Fortnite Ultimate External",
             "name": "Fortnite Ultimate External",
             "categoryId": "fortnite",
