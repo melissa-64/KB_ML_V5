@@ -26,6 +26,15 @@
             "status": "online",
             "imageUrl": "https://cloud.anewvision.fr/1281779910997835788/BOX_15.png",
             "productUrl": "https://kbservicescheats.com/products/bo6-wz-internal"
+        },
+        {
+            "id": "BO6 Unlocker + Spoofer",
+            "name": "BO6 Unlocker + Spoofer",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1281779910997835788/BO6_Unlocker__Spoofer.exe",
+            "status": "custom",
+            "imageUrl": "https://cloud.anewvision.fr/1281779910997835788/BOX_5.png",
+            "productUrl": "https://kbservicescheats.com/products/bo6-wz-unlock-all"
         }
     ]
 }
