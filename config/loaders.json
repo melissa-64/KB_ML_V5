@@ -35,6 +35,15 @@
             "status": "online",
             "imageUrl": "https://cloud.anewvision.fr/1281779910997835788/Service-Tool.png",
             "productUrl": ""
+        },
+        {
+            "id": "test",
+            "name": "test",
+            "categoryId": "spoofers",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1281779910997835788_cloud/main/test.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
