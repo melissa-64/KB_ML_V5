@@ -2,7 +2,7 @@
     "loaders": [
         {
             "id": "BO6 Xenora External 1.3",
-            "name": "BO6 Xenora External",
+            "name": "BO6 Rytek External",
             "categoryId": "bo6",
             "downloadUrl": "https://cloud.anewvision.fr/1281779910997835788/BO6_Xenora_External_1.3.exe",
             "status": "online",
