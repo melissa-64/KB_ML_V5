@@ -4,7 +4,7 @@
             "id": "Unbranded 1",
             "name": "BO6 Xenora External",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1183938967024959659/Unbranded_1.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1183938967024959659/Unbranded_1.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1281779910997835788_cloud/main/COD-Rytek-External.png",
             "productUrl": "https://kbservicescheats.com/products/bo6-wz-external-chair-2-0"
@@ -22,18 +22,18 @@
             "id": "BO6 Unlock All",
             "name": "BO6 Unlock All",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1281779910997835788/BO6_Unlock_All.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1281779910997835788/BO6_Unlock_All.exe",
             "status": "custom",
-            "imageUrl": "https://cloud.anewvision.fr/1281779910997835788/COD-Unlock-All.jpg",
+            "imageUrl": "https://api.cloud.anewvision.fr/1281779910997835788/COD-Unlock-All.jpg",
             "productUrl": "https://kbservicescheats.com/products/bo6-wz-unlock-all"
         },
         {
             "id": "KBServicesAutoSetupV2.0",
             "name": "Support Tool",
             "categoryId": "others",
-            "downloadUrl": "https://cloud.anewvision.fr/1281779910997835788/KBServicesAutoSetupV2.0.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1281779910997835788/KBServicesAutoSetupV2.0.exe",
             "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1281779910997835788/Service-Tool.png",
+            "imageUrl": "https://api.cloud.anewvision.fr/1281779910997835788/Service-Tool.png",
             "productUrl": ""
         }
     ]
