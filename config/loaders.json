@@ -28,10 +28,10 @@
             "productUrl": ""
         },
         {
-            "id": "BO6 Xenora Internal",
+            "id": "update",
             "name": "BO6 Xenora Internal",
             "categoryId": "bo6",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1183938967024959659/internal.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1183938967024959659/update.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": "https://kbservicescheats.com/products/bo6-wz-internal"
