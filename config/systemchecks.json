@@ -2,14 +2,14 @@
     "checks": [
         {
             "key": "VirtualizationEnabled",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": false,
             "enabled": true,
             "tutorialLink": "https://kb-services.gitbook.io/setup/virtualization-and-hyper-v"
         },
         {
             "key": "SecureBootDisabled",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": false,
             "enabled": true,
             "tutorialLink": "https://kb-services.gitbook.io/setup/bios-uefi-configuration"
@@ -22,19 +22,19 @@
         },
         {
             "key": "MemoryIntegrityDisabled",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": true,
             "enabled": true
         },
         {
             "key": "DriverBlocklistDisabled",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": true,
             "enabled": true
         },
         {
             "key": "Windows11_24H2",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": false,
             "enabled": true,
             "tutorialLink": ""
@@ -47,7 +47,7 @@
         },
         {
             "key": "RiotVanguardInactive",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": true,
             "enabled": true
         }
