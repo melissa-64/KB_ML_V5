@@ -18,7 +18,7 @@
         "background": {
             "main": "#050505",
             "overlay": "rgba(0,0,0,0.5)",
-            "custom-image": "https://cloud.anewvision.fr/1281779910997835788/KBServices-Wallpaper.png",
+            "custom-image": "https://api.cloud.anewvision.fr/1281779910997835788/KBServices-Wallpaper.png",
             "logoImage": "https://api.cloud.anewvision.fr/1281779910997835788/Logo_Filled.png",
             "background-anim": "stars"
         },
