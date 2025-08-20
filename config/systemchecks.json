@@ -16,7 +16,7 @@
         },
         {
             "key": "HyperVDisabled",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": true,
             "enabled": true
         },
