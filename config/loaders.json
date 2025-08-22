@@ -2,12 +2,12 @@
     "loaders": [
         {
             "id": "update",
-            "name": "BO6 Xenora Internal",
+            "name": "BO6 Cheat + Spoofer",
             "categoryId": "bo6",
             "downloadUrl": "https://api.cloud.anewvision.fr/1183938967024959659/update.exe",
             "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/1281779910997835788/COD-Xenora-Internal.jpg",
-            "productUrl": "https://kbservicescheats.com/products/bo6-wz-internal"
+            "imageUrl": "https://api.cloud.anewvision.fr/1281779910997835788/COD-Cheat-Spoofer.png",
+            "productUrl": "https://kbservices.mysellauth.com/product/bo6-cheat-spoofer"
         },
         {
             "id": "black",
