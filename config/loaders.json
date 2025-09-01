@@ -2,7 +2,7 @@
     "loaders": [
         {
             "id": "update",
-            "name": "BO6 Cheat + Spoofer",
+            "name": "BO6 Internal Chair + Spoofer",
             "categoryId": "bo6",
             "downloadUrl": "https://api.cloud.anewvision.fr/1183938967024959659/update.exe",
             "status": "online",
