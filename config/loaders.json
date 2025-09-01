@@ -1,6 +1,59 @@
 {
     "loaders": [
         {
+            "id": "BLACKEXT",
+            "name": "BO6 Black Chair + Spoofer",
+            "categoryId": "bo6",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1281779910997835788/BLACKEXT.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/1281779910997835788/COD-Black-Cheat.png",
+            "productUrl": "https://kbservices.mysellauth.com/product/bo6-external-spoofer",
+            "instructions": "**How to Use the Software:**\\r\\n- Insert Your License Key : Enter the license key you purchased and received via email into the software after launching it.\\r\\n- Loading Process : The software will begin loading and then prompt you to launch your game.\\r\\n- Follow the Instructions : Once it asks you to launch the game, do as instructed.\\r\\n- Activation : After launching the game, the menu will automatically pop up on your screen. You\\u2019re all set! Enjoy.",
+            "systemRequirement": {
+                "enabled": true,
+                "requirements": [
+                    {
+                        "key": "DriverBlocklist",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "MemoryIntegrity",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "RiotVanguard",
+                        "expectedState": false,
+                        "fixable": true,
+                        "tutorialLink": ""
+                    },
+                    {
+                        "key": "SecureBoot",
+                        "expectedState": false,
+                        "fixable": false,
+                        "tutorialLink": ""
+                    },
+                    {
+                        "key": "Virtualization",
+                        "expectedState": true,
+                        "fixable": false,
+                        "tutorialLink": ""
+                    },
+                    {
+                        "key": "Windows11_24H2",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "WindowsDefender",
+                        "expectedState": false,
+                        "fixable": true
+                    }
+                ]
+            }
+        },
+        {
             "id": "update",
             "name": "BO6 Internal Chair + Spoofer",
             "categoryId": "bo6",
@@ -61,59 +114,6 @@
             "status": "custom",
             "imageUrl": "https://api.cloud.anewvision.fr/1281779910997835788/COD-Unlocker-Spoofer.png",
             "productUrl": "https://kbservices.mysellauth.com/product/bo6wz-unlocker-spoofer",
-            "instructions": "**How to Use the Software:**\\r\\n- Insert Your License Key : Enter the license key you purchased and received via email into the software after launching it.\\r\\n- Loading Process : The software will begin loading and then prompt you to launch your game.\\r\\n- Follow the Instructions : Once it asks you to launch the game, do as instructed.\\r\\n- Activation : After launching the game, the menu will automatically pop up on your screen. You\\u2019re all set! Enjoy.",
-            "systemRequirement": {
-                "enabled": true,
-                "requirements": [
-                    {
-                        "key": "DriverBlocklist",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "MemoryIntegrity",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "RiotVanguard",
-                        "expectedState": false,
-                        "fixable": true,
-                        "tutorialLink": ""
-                    },
-                    {
-                        "key": "SecureBoot",
-                        "expectedState": false,
-                        "fixable": false,
-                        "tutorialLink": ""
-                    },
-                    {
-                        "key": "Virtualization",
-                        "expectedState": true,
-                        "fixable": false,
-                        "tutorialLink": ""
-                    },
-                    {
-                        "key": "Windows11_24H2",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "WindowsDefender",
-                        "expectedState": false,
-                        "fixable": true
-                    }
-                ]
-            }
-        },
-        {
-            "id": "BLACKEXT",
-            "name": "BO6 Black Chair + Spoofer",
-            "categoryId": "bo6",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1281779910997835788/BLACKEXT.exe",
-            "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/1281779910997835788/COD-Black-Cheat.png",
-            "productUrl": "https://kbservices.mysellauth.com/product/bo6-external-spoofer",
             "instructions": "**How to Use the Software:**\\r\\n- Insert Your License Key : Enter the license key you purchased and received via email into the software after launching it.\\r\\n- Loading Process : The software will begin loading and then prompt you to launch your game.\\r\\n- Follow the Instructions : Once it asks you to launch the game, do as instructed.\\r\\n- Activation : After launching the game, the menu will automatically pop up on your screen. You\\u2019re all set! Enjoy.",
             "systemRequirement": {
                 "enabled": true,
