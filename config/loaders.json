@@ -1,10 +1,10 @@
 {
     "loaders": [
         {
-            "id": "BLACKEXT",
+            "id": "BLACKCHAIR",
             "name": "BO6 Black Chair + Spoofer",
             "categoryId": "bo6",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1281779910997835788/BLACKEXT.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1281779910997835788/BLACKCHAIR.exe",
             "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/1281779910997835788/COD-Black-Cheat.png",
             "productUrl": "https://kbservices.mysellauth.com/product/bo6-external-spoofer",
@@ -51,7 +51,8 @@
                         "fixable": true
                     }
                 ]
-            }
+            },
+            "contentType": "executable"
         },
         {
             "id": "update",
