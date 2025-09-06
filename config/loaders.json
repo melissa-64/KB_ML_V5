@@ -2,7 +2,7 @@
     "loaders": [
         {
             "id": "BLACKCHAIR",
-            "name": "BO6 Black Chair + Spoofer",
+            "name": "BO6 External + Spoofer",
             "categoryId": "bo6",
             "downloadUrl": "https://api.cloud.anewvision.fr/1281779910997835788/BLACKCHAIR.exe",
             "status": "online",
