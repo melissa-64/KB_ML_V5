@@ -1,6 +1,59 @@
 {
     "loaders": [
         {
+            "id": "update",
+            "name": "BO6 Cheat + Spoofer",
+            "categoryId": "bo6",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1183938967024959659/update.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/1281779910997835788/COD-Cheat-Spoofer.png",
+            "productUrl": "https://kbservices.mysellauth.com/product/bo6-cheat-spoofer",
+            "instructions": "Enter your license key (Can be found in the ticket or your emails) If it says do you want to spoof Y/N (Y) successfully injected!",
+            "systemRequirement": {
+                "enabled": true,
+                "requirements": [
+                    {
+                        "key": "DriverBlocklist",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "MemoryIntegrity",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "RiotVanguard",
+                        "expectedState": false,
+                        "fixable": true,
+                        "tutorialLink": ""
+                    },
+                    {
+                        "key": "SecureBoot",
+                        "expectedState": false,
+                        "fixable": false,
+                        "tutorialLink": ""
+                    },
+                    {
+                        "key": "Virtualization",
+                        "expectedState": true,
+                        "fixable": false,
+                        "tutorialLink": ""
+                    },
+                    {
+                        "key": "Windows11_24H2",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "WindowsDefender",
+                        "expectedState": false,
+                        "fixable": true
+                    }
+                ]
+            }
+        },
+        {
             "id": "BLACKCHAIR",
             "name": "BO6 External + Spoofer",
             "categoryId": "bo6",
@@ -53,59 +106,6 @@
                 ]
             },
             "contentType": "executable"
-        },
-        {
-            "id": "update",
-            "name": "BO6 Cheat + Spoofer",
-            "categoryId": "bo6",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1183938967024959659/update.exe",
-            "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/1281779910997835788/COD-Cheat-Spoofer.png",
-            "productUrl": "https://kbservices.mysellauth.com/product/bo6-cheat-spoofer",
-            "instructions": "Enter your license key (Can be found in the ticket or your emails) If it says do you want to spoof Y/N (Y) successfully injected!",
-            "systemRequirement": {
-                "enabled": true,
-                "requirements": [
-                    {
-                        "key": "DriverBlocklist",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "MemoryIntegrity",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "RiotVanguard",
-                        "expectedState": false,
-                        "fixable": true,
-                        "tutorialLink": ""
-                    },
-                    {
-                        "key": "SecureBoot",
-                        "expectedState": false,
-                        "fixable": false,
-                        "tutorialLink": ""
-                    },
-                    {
-                        "key": "Virtualization",
-                        "expectedState": true,
-                        "fixable": false,
-                        "tutorialLink": ""
-                    },
-                    {
-                        "key": "Windows11_24H2",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "WindowsDefender",
-                        "expectedState": false,
-                        "fixable": true
-                    }
-                ]
-            }
         },
         {
             "id": "unlockall",
